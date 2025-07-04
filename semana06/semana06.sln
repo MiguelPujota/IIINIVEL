@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstacionamientoSistemas", "EstacionamientoSistemas.csproj", "{639A45BE-F206-5B22-3BA1-775805E97F99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiApp", "MiApp\MiApp.csproj", "{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{639A45BE-F206-5B22-3BA1-775805E97F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{639A45BE-F206-5B22-3BA1-775805E97F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{639A45BE-F206-5B22-3BA1-775805E97F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{639A45BE-F206-5B22-3BA1-775805E97F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {47E68DFA-843E-48A2-BFF9-8FF38AB82E1B}
+		SolutionGuid = {DA984304-A3D7-4CD5-A5DA-6A2D8C58E176}
 	EndGlobalSection
 EndGlobal
