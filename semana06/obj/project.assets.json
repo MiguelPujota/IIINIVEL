@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\EstacionamientoSistemas.csproj",
-      "projectName": "EstacionamientoSistemas",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\EstacionamientoSistemas.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp.csproj",
+      "projectName": "MiApp",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\obj\\",
       "projectStyle": "PackageReference",

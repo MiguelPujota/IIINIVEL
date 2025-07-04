@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\MiApp.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\MiApp.csproj": {
+    "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\MiApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp.csproj",
         "projectName": "MiApp",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\MiApp.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
