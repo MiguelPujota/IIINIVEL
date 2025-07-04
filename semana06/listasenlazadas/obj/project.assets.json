@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp\\MiApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\MiApp.csproj",
       "projectName": "MiApp",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp\\MiApp.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\MiApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\MiApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Datos\\IIINIVEL\\semana06\\listasenlazadas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

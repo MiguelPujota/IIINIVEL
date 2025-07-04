@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiApp", "MiApp\MiApp.csproj", "{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiApp", "listasenlazadas\MiApp.csproj", "{03664DF7-0086-AAF9-B240-B65F00065CFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EDD91C5C-1C1B-C871-4C12-20D26F20EFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03664DF7-0086-AAF9-B240-B65F00065CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03664DF7-0086-AAF9-B240-B65F00065CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03664DF7-0086-AAF9-B240-B65F00065CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03664DF7-0086-AAF9-B240-B65F00065CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DA984304-A3D7-4CD5-A5DA-6A2D8C58E176}
+		SolutionGuid = {4A2F2F9A-B2E2-4251-AE0F-AD1AAF4DD825}
 	EndGlobalSection
 EndGlobal
