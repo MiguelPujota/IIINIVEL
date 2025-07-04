@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\bin\Debug\net9.0\EstacionamientoSistemas.exe
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\bin\Debug\net9.0\EstacionamientoSistemas.deps.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\bin\Debug\net9.0\EstacionamientoSistemas.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\bin\Debug\net9.0\EstacionamientoSistemas.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\bin\Debug\net9.0\EstacionamientoSistemas.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\refint\EstacionamientoSistemas.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\EstacionamientoSistemas.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\EstacionamientoSistemas\obj\Debug\net9.0\ref\EstacionamientoSistemas.dll
