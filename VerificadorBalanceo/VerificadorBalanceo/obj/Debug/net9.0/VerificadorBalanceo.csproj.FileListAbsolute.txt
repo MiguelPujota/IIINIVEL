@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\bin\Debug\net9.0\VerificadorBalanceo.exe
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\bin\Debug\net9.0\VerificadorBalanceo.deps.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\bin\Debug\net9.0\VerificadorBalanceo.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\bin\Debug\net9.0\VerificadorBalanceo.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\bin\Debug\net9.0\VerificadorBalanceo.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\refint\VerificadorBalanceo.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\VerificadorBalanceo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\VerificadorBalanceo\VerificadorBalanceo\obj\Debug\net9.0\ref\VerificadorBalanceo.dll
