@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.exe
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.deps.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\refint\ParqueAtracciones.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\Proyectosemana8\ParqueAtracciones\obj\Debug\net9.0\ref\ParqueAtracciones.dll
