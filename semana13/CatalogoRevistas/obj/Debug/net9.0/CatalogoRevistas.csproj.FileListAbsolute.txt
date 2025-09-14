@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.exe
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.deps.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\refint\CatalogoRevistas.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana13\CatalogoRevistas\obj\Debug\net9.0\ref\CatalogoRevistas.dll
