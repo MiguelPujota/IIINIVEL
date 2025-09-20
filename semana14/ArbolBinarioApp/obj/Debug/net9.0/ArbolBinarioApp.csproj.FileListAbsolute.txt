@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\bin\Debug\net9.0\ArbolBinarioApp.exe
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\bin\Debug\net9.0\ArbolBinarioApp.deps.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\bin\Debug\net9.0\ArbolBinarioApp.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\bin\Debug\net9.0\ArbolBinarioApp.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\bin\Debug\net9.0\ArbolBinarioApp.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\refint\ArbolBinarioApp.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ArbolBinarioApp.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana14\ArbolBinarioApp\obj\Debug\net9.0\ref\ArbolBinarioApp.dll
