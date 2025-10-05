@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\bin\Debug\net9.0\VuelosBaratos.exe
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\bin\Debug\net9.0\VuelosBaratos.deps.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\bin\Debug\net9.0\VuelosBaratos.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\bin\Debug\net9.0\VuelosBaratos.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\bin\Debug\net9.0\VuelosBaratos.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\refint\VuelosBaratos.dll
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.pdb
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\VuelosBaratos.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Datos\IIINIVEL\semana16\VuelosBaratos\obj\Debug\net9.0\ref\VuelosBaratos.dll
